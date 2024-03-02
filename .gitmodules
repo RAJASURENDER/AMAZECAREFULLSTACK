@@ -1,0 +1,6 @@
+[submodule "AmazeCareAPI/AmazeCare"]
+	path = AmazeCareAPI/AmazeCare
+	url = https://github.com/RAJASURENDER/AMAZECAREFULLSTACK.git
+[submodule "amazecarefrontend"]
+	path = amazecarefrontend
+	url = https://github.com/RAJASURENDER/AMAZECAREFULLSTACK.git
